@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a937a1b53f8493bb99f60f82e74d7dc/artifacts
+end_time: 1721938361592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a937a1b53f8493bb99f60f82e74d7dc
+run_name: dapper-mare-134
+run_uuid: 5a937a1b53f8493bb99f60f82e74d7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721938341523
+status: 4
+tags: []
+user_id: sam_john

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b7272f82de3f4b20a79c392d48d2fd1c/artifacts
+end_time: 1721941552627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7272f82de3f4b20a79c392d48d2fd1c
+run_name: polite-bass-292
+run_uuid: b7272f82de3f4b20a79c392d48d2fd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941467453
+status: 4
+tags: []
+user_id: sam_john

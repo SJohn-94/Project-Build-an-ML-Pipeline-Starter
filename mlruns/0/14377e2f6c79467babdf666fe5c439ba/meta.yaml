@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/14377e2f6c79467babdf666fe5c439ba/artifacts
+end_time: 1721934261108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14377e2f6c79467babdf666fe5c439ba
+run_name: delicate-frog-216
+run_uuid: 14377e2f6c79467babdf666fe5c439ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721934211272
+status: 4
+tags: []
+user_id: sam_john

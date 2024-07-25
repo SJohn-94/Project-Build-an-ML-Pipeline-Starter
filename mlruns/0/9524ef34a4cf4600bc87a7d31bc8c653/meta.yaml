@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9524ef34a4cf4600bc87a7d31bc8c653/artifacts
+end_time: 1721940485530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9524ef34a4cf4600bc87a7d31bc8c653
+run_name: bald-ant-673
+run_uuid: 9524ef34a4cf4600bc87a7d31bc8c653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721940280392
+status: 3
+tags: []
+user_id: sam_john

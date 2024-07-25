@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fae685e2e06f43d5aa60f718a556a08d/artifacts
+end_time: 1721939908542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fae685e2e06f43d5aa60f718a556a08d
+run_name: welcoming-pig-131
+run_uuid: fae685e2e06f43d5aa60f718a556a08d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721939887765
+status: 4
+tags: []
+user_id: sam_john

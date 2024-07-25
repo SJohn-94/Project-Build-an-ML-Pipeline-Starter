@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2e26a6861ec649639b002161c0c631f2/artifacts
+end_time: 1721934875474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e26a6861ec649639b002161c0c631f2
+run_name: overjoyed-slug-352
+run_uuid: 2e26a6861ec649639b002161c0c631f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721934850000
+status: 3
+tags: []
+user_id: sam_john

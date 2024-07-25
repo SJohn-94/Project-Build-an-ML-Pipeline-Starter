@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1cd0af02cd0745ceb6f706b7755d8a5f/artifacts
+end_time: 1721939225578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cd0af02cd0745ceb6f706b7755d8a5f
+run_name: wise-shrimp-322
+run_uuid: 1cd0af02cd0745ceb6f706b7755d8a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721939204472
+status: 4
+tags: []
+user_id: sam_john

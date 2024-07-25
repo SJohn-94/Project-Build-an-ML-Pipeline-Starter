@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/70f0d5711e2844f79c2d0e1a252ce52c/artifacts
+end_time: 1721935646742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70f0d5711e2844f79c2d0e1a252ce52c
+run_name: likeable-ox-837
+run_uuid: 70f0d5711e2844f79c2d0e1a252ce52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721935632887
+status: 4
+tags: []
+user_id: sam_john

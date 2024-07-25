@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4bfb0fa596264e01b33929f92c18f62f/artifacts
+end_time: 1721941662784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bfb0fa596264e01b33929f92c18f62f
+run_name: mysterious-fowl-206
+run_uuid: 4bfb0fa596264e01b33929f92c18f62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941645916
+status: 4
+tags: []
+user_id: sam_john

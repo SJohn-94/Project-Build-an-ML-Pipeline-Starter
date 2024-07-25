@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9e27335af65a438599960cce2909e4dc/artifacts
+end_time: 1721940280275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e27335af65a438599960cce2909e4dc
+run_name: masked-duck-534
+run_uuid: 9e27335af65a438599960cce2909e4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721940245357
+status: 3
+tags: []
+user_id: sam_john

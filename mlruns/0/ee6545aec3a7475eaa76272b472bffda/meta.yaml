@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ee6545aec3a7475eaa76272b472bffda/artifacts
+end_time: 1721935647014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee6545aec3a7475eaa76272b472bffda
+run_name: unique-dolphin-627
+run_uuid: ee6545aec3a7475eaa76272b472bffda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721935630221
+status: 4
+tags: []
+user_id: sam_john

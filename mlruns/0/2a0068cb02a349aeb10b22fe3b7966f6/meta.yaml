@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a0068cb02a349aeb10b22fe3b7966f6/artifacts
+end_time: 1721938361893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0068cb02a349aeb10b22fe3b7966f6
+run_name: unique-crane-695
+run_uuid: 2a0068cb02a349aeb10b22fe3b7966f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721938338478
+status: 4
+tags: []
+user_id: sam_john

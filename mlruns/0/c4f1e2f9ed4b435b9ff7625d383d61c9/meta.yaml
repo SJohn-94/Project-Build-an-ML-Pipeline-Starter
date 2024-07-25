@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c4f1e2f9ed4b435b9ff7625d383d61c9/artifacts
+end_time: 1721937675420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4f1e2f9ed4b435b9ff7625d383d61c9
+run_name: abundant-slug-995
+run_uuid: c4f1e2f9ed4b435b9ff7625d383d61c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721937599317
+status: 4
+tags: []
+user_id: sam_john

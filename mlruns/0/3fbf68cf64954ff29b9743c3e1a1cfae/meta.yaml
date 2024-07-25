@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3fbf68cf64954ff29b9743c3e1a1cfae/artifacts
+end_time: 1721935987505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fbf68cf64954ff29b9743c3e1a1cfae
+run_name: colorful-wolf-218
+run_uuid: 3fbf68cf64954ff29b9743c3e1a1cfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721935968642
+status: 3
+tags: []
+user_id: sam_john

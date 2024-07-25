@@ -1,0 +1,74 @@
+2024-07-25 15:34:21,625 INFO    StreamThr :36727 [internal.py:wandb_internal():87] W&B internal server running at pid: 36727, started at: 2024-07-25 15:34:21.624354
+2024-07-25 15:34:21,626 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: status
+2024-07-25 15:34:21,629 INFO    WriterThread:36727 [datastore.py:open_for_write():85] open: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/run-s32ydp2t.wandb
+2024-07-25 15:34:21,629 DEBUG   SenderThread:36727 [sender.py:send():334] send: header
+2024-07-25 15:34:21,636 DEBUG   SenderThread:36727 [sender.py:send():334] send: run
+2024-07-25 15:34:22,911 INFO    SenderThread:36727 [dir_watcher.py:__init__():216] watching files in: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files
+2024-07-25 15:34:22,911 INFO    SenderThread:36727 [sender.py:_start_run_threads():1065] run started: s32ydp2t with start time 1721939661.623575
+2024-07-25 15:34:22,911 DEBUG   SenderThread:36727 [sender.py:send_request():361] send_request: summary_record
+2024-07-25 15:34:22,911 INFO    SenderThread:36727 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-07-25 15:34:22,911 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: check_version
+2024-07-25 15:34:22,912 DEBUG   SenderThread:36727 [sender.py:send_request():361] send_request: check_version
+2024-07-25 15:34:23,094 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: run_start
+2024-07-25 15:34:23,095 DEBUG   HandlerThread:36727 [system_info.py:__init__():31] System info init
+2024-07-25 15:34:23,096 DEBUG   HandlerThread:36727 [system_info.py:__init__():46] System info init done
+2024-07-25 15:34:23,096 INFO    HandlerThread:36727 [system_monitor.py:start():151] Starting system monitor
+2024-07-25 15:34:23,096 INFO    SystemMonitor:36727 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-07-25 15:34:23,096 INFO    HandlerThread:36727 [system_monitor.py:probe():172] Collecting system info
+2024-07-25 15:34:23,096 INFO    SystemMonitor:36727 [interfaces.py:start():168] Started cpu
+2024-07-25 15:34:23,098 INFO    SystemMonitor:36727 [interfaces.py:start():168] Started disk
+2024-07-25 15:34:23,098 INFO    SystemMonitor:36727 [interfaces.py:start():168] Started memory
+2024-07-25 15:34:23,100 INFO    SystemMonitor:36727 [interfaces.py:start():168] Started network
+2024-07-25 15:34:23,102 DEBUG   HandlerThread:36727 [system_info.py:probe():195] Probing system
+2024-07-25 15:34:23,117 DEBUG   HandlerThread:36727 [system_info.py:_probe_git():180] Probing git
+2024-07-25 15:34:23,126 DEBUG   HandlerThread:36727 [system_info.py:_probe_git():188] Probing git done
+2024-07-25 15:34:23,126 DEBUG   HandlerThread:36727 [system_info.py:probe():241] Probing system done
+2024-07-25 15:34:23,126 DEBUG   HandlerThread:36727 [system_monitor.py:probe():181] {'os': 'Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.39', 'python': '3.9.19', 'heartbeatAt': '2024-07-25T20:34:23.102654', 'startedAt': '2024-07-25T20:34:21.615957', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/home/sam_john/Project-Build-an-ML-Pipeline-Starter/multirun/2024-07-25/15-34-18/0/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'randmom_forest_export'), 'state': 'running', 'program': '/home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/SJohn-94/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98'}, 'email': None, 'root': '/home/sam_john/Project-Build-an-ML-Pipeline-Starter', 'host': 'Johnson-PC', 'username': 'sam_john', 'executable': '/home/sam_john/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 1996.198, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}, {'current': 1996.198, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 12.902202606201172}, 'memory': {'total': 6.701503753662109}}
+2024-07-25 15:34:23,126 INFO    HandlerThread:36727 [system_monitor.py:probe():182] Finished collecting system info
+2024-07-25 15:34:23,126 INFO    HandlerThread:36727 [system_monitor.py:probe():185] Publishing system info
+2024-07-25 15:34:23,126 DEBUG   HandlerThread:36727 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-07-25 15:34:23,127 DEBUG   HandlerThread:36727 [system_info.py:_save_pip():67] Saving pip packages done
+2024-07-25 15:34:23,127 DEBUG   HandlerThread:36727 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-07-25 15:35:34,943 DEBUG   SystemMonitor:36727 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-07-25 15:35:34,947 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_created():275] file/dir created: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/requirements.txt
+2024-07-25 15:35:34,947 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_created():275] file/dir created: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/conda-environment.yaml
+2024-07-25 15:35:34,947 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_created():275] file/dir created: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/wandb-summary.json
+2024-07-25 15:34:24,108 DEBUG   HandlerThread:36727 [system_info.py:_save_conda():86] Saving conda packages done
+2024-07-25 15:34:24,108 INFO    HandlerThread:36727 [system_monitor.py:probe():187] Finished publishing system info
+2024-07-25 15:34:24,110 DEBUG   SenderThread:36727 [sender.py:send():334] send: files
+2024-07-25 15:34:24,111 INFO    SenderThread:36727 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-07-25 15:34:24,116 DEBUG   SenderThread:36727 [sender.py:send():334] send: telemetry
+2024-07-25 15:34:24,117 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: stop_status
+2024-07-25 15:34:24,117 DEBUG   SenderThread:36727 [sender.py:send_request():361] send_request: stop_status
+2024-07-25 15:34:24,392 DEBUG   SenderThread:36727 [sender.py:send():334] send: config
+2024-07-25 15:34:24,393 DEBUG   SenderThread:36727 [sender.py:send():334] send: config
+2024-07-25 15:34:24,674 INFO    Thread-15 :36727 [upload_job.py:push():143] Uploaded file /tmp/tmp3k93oihwwandb/rawp7wkn-wandb-metadata.json
+2024-07-25 15:34:24,675 DEBUG   SenderThread:36727 [sender.py:send():334] send: use_artifact
+2024-07-25 15:34:27,149 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: status_report
+2024-07-25 15:35:39,956 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/conda-environment.yaml
+2024-07-25 15:35:39,956 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_created():275] file/dir created: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/wandb-metadata.json
+2024-07-25 15:35:39,956 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_created():275] file/dir created: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/output.log
+2024-07-25 15:35:44,969 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: status_report
+2024-07-25 15:35:44,971 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: keepalive
+2024-07-25 15:34:38,004 DEBUG   HandlerThread:36727 [handler.py:handle_request():144] handle_request: log_artifact
+2024-07-25 15:34:38,005 DEBUG   SenderThread:36727 [sender.py:send_request():361] send_request: log_artifact
+2024-07-25 15:34:38,672 WARNING StreamThr :36727 [internal.py:is_dead():415] Internal process exiting, parent pid 36685 disappeared
+2024-07-25 15:34:38,672 ERROR   StreamThr :36727 [internal.py:wandb_internal():153] Internal process shutdown.
+2024-07-25 15:35:49,979 ERROR   cpu       :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:49,980 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/output.log
+2024-07-25 15:35:49,981 ERROR   memory    :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:49,981 ERROR   memory    :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:49,981 ERROR   cpu       :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:34:39,675 INFO    Thread-18 :36727 [upload_job.py:push():101] Uploaded file /home/sam_john/.local/share/wandb/artifacts/staging/tmpcns0xoih
+2024-07-25 15:34:39,679 INFO    Thread-17 :36727 [upload_job.py:push():101] Uploaded file /home/sam_john/.local/share/wandb/artifacts/staging/tmpbs7d7ghg
+2024-07-25 15:34:39,685 INFO    Thread-19 :36727 [upload_job.py:push():101] Uploaded file /home/sam_john/.local/share/wandb/artifacts/staging/tmp71g3189u
+2024-07-25 15:34:39,685 INFO    Thread-22 :36727 [upload_job.py:push():101] Uploaded file /home/sam_john/.local/share/wandb/artifacts/staging/tmpucl1p5js
+2024-07-25 15:34:39,689 INFO    Thread-21 :36727 [upload_job.py:push():101] Uploaded file /home/sam_john/.local/share/wandb/artifacts/staging/tmp22vjotcj
+2024-07-25 15:35:54,992 INFO    WriterThread:36727 [datastore.py:close():299] close: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/run-s32ydp2t.wandb
+2024-07-25 15:35:54,993 INFO    HandlerThread:36727 [handler.py:finish():841] shutting down handler
+2024-07-25 15:35:54,994 ERROR   cpu       :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:54,994 INFO    MainThread:36727 [internal.py:handle_exit():77] Internal process exited
+2024-07-25 15:35:54,995 ERROR   memory    :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:54,996 ERROR   memory    :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:54,996 ERROR   cpu       :36727 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=36685)
+2024-07-25 15:35:54,997 INFO    Thread-12 :36727 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/sam_john/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240725_153421-s32ydp2t/files/output.log

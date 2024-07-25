@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f5bc7405363f460ea75f072229cc4c0f/artifacts
+end_time: 1721941787726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5bc7405363f460ea75f072229cc4c0f
+run_name: casual-goose-669
+run_uuid: f5bc7405363f460ea75f072229cc4c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941843753
+status: 4
+tags: []
+user_id: sam_john

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16cd7e5a944d4de18413e680ec4e077b/artifacts
+end_time: 1721940245244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16cd7e5a944d4de18413e680ec4e077b
+run_name: monumental-zebra-223
+run_uuid: 16cd7e5a944d4de18413e680ec4e077b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721940105034
+status: 3
+tags: []
+user_id: sam_john

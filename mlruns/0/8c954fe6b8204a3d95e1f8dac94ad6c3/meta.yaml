@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c954fe6b8204a3d95e1f8dac94ad6c3/artifacts
+end_time: 1721934260817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c954fe6b8204a3d95e1f8dac94ad6c3
+run_name: capable-sloth-305
+run_uuid: 8c954fe6b8204a3d95e1f8dac94ad6c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721934214108
+status: 4
+tags: []
+user_id: sam_john

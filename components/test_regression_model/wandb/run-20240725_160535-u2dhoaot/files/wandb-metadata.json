@@ -1,0 +1,122 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-07-25T21:05:35.712446",
+    "startedAt": "2024-07-25T21:05:35.143071",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/sam_john/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/SJohn-94/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/sam_john/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Johnson-PC",
+    "username": "sam_john",
+    "executable": "/home/sam_john/miniconda3/envs/mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1996.198,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.198,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 13.662193298339844
+    },
+    "memory": {
+        "total": 6.701503753662109
+    }
+}

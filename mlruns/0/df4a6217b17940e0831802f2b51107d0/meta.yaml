@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/df4a6217b17940e0831802f2b51107d0/artifacts
+end_time: 1721941787980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df4a6217b17940e0831802f2b51107d0
+run_name: aged-calf-123
+run_uuid: df4a6217b17940e0831802f2b51107d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941770638
+status: 4
+tags: []
+user_id: sam_john

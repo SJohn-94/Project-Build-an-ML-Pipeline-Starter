@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0fdad5b3845c48c29dd1f2c7259dbdde/artifacts
+end_time: 1721941843121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fdad5b3845c48c29dd1f2c7259dbdde
+run_name: monumental-bass-700
+run_uuid: 0fdad5b3845c48c29dd1f2c7259dbdde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941823399
+status: 4
+tags: []
+user_id: sam_john

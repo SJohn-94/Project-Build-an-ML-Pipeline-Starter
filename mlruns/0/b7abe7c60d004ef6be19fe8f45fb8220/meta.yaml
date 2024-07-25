@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b7abe7c60d004ef6be19fe8f45fb8220/artifacts
+end_time: 1721932214324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7abe7c60d004ef6be19fe8f45fb8220
+run_name: magnificent-mule-972
+run_uuid: b7abe7c60d004ef6be19fe8f45fb8220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721932213305
+status: 4
+tags: []
+user_id: sam_john

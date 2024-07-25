@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d91e2a425c5f4974bd5c789e9bfdc4db/artifacts
+end_time: 1721932791992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d91e2a425c5f4974bd5c789e9bfdc4db
+run_name: casual-rook-309
+run_uuid: d91e2a425c5f4974bd5c789e9bfdc4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721932568672
+status: 3
+tags: []
+user_id: sam_john

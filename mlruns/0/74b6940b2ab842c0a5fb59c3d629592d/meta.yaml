@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/74b6940b2ab842c0a5fb59c3d629592d/artifacts
+end_time: 1721939678410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74b6940b2ab842c0a5fb59c3d629592d
+run_name: hilarious-boar-25
+run_uuid: 74b6940b2ab842c0a5fb59c3d629592d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721939656473
+status: 4
+tags: []
+user_id: sam_john

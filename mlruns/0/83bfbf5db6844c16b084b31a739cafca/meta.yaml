@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/83bfbf5db6844c16b084b31a739cafca/artifacts
+end_time: 1721941662519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83bfbf5db6844c16b084b31a739cafca
+run_name: gregarious-fowl-624
+run_uuid: 83bfbf5db6844c16b084b31a739cafca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941647658
+status: 4
+tags: []
+user_id: sam_john

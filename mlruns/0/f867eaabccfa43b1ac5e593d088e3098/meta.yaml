@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f867eaabccfa43b1ac5e593d088e3098/artifacts
+end_time: 1721941908200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f867eaabccfa43b1ac5e593d088e3098
+run_name: debonair-bird-53
+run_uuid: f867eaabccfa43b1ac5e593d088e3098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941886028
+status: 3
+tags: []
+user_id: sam_john

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam_john/Project-Build-an-ML-Pipeline-Starter/mlruns/0/897f1ee6465547e3a0e3c596062f2e66/artifacts
+end_time: 1721941381646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 897f1ee6465547e3a0e3c596062f2e66
+run_name: fun-panda-819
+run_uuid: 897f1ee6465547e3a0e3c596062f2e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721941378705
+status: 4
+tags: []
+user_id: sam_john
